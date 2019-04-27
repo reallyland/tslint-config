@@ -1,6 +1,6 @@
 {
   "name": "@reallyland/tslint-config",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "TSLint config for The Really Project",
   "keywords": [
     "lit-element",
