@@ -102,7 +102,7 @@ $ npm install --save-dev @reallyland/tslint-config
 <!-- Links -->
 [version-url]: https://www.npmjs.com/package/@reallyland/tslint-config
 [node-version-url]: https://nodejs.org/en/download
-[mit-license-url]: https://github.com/reallyland/tslint-config/blob/master/LICENSE
+[mit-license-url]: https://github.com/reallyland/tslint-config/blob/master/license
 
 [downloads-url]: https://www.npmtrends.com/@reallyland/tslint-config
 [packagephobia-url]: https://packagephobia.now.sh/result?p=%40reallyland%2Ftslint-config
