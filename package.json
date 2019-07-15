@@ -31,7 +31,7 @@
   "scripts": {},
   "dependencies": {
     "tslint-config-airbnb": "^5.11.1",
-    "tslint-immutable": "^6.0.0"
+    "tslint-immutable": "^6.0.1"
   },
   "devDependencies": {},
   "engines": {
